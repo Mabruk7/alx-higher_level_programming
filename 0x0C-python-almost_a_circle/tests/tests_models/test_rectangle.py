@@ -1,5 +1,3 @@
-Your account doesn’t support creating new files within Google Drive. You can still view and edit existing files.Learn more
-
 #!/usr/bin/python3
 # test_rectangle.py
 # Brennan D Baraban <375@holbertonschool.com>
